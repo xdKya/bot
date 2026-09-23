@@ -62,4 +62,4 @@ async def check(ctx):
 
 
 bot.run(
-    "MTUxNTA4NDg1NjY4ODkwMjIxNA.Gsn87Z.YqzInvtHBUU587yluUU2YYxnsNSQD7e0JUei50")
+    "SEU TOKEN AQUI")
